@@ -1,6 +1,6 @@
 ---
 name: RFP Application
-about: Submit a proposal for our open RFPs (Request For Proposals) 
+about: Submit a proposal for our open RFPs (Request For Proposals)
 title: ''
 labels: ''
 assignees: ''
