@@ -67,7 +67,7 @@ Specify your team's long-term plans to maintain and improve this project over ti
 
 ## Contact Info
 
-Provide us with a way to contact you (email is probably easiest). You can also email grants@filecoin.org with your GH username and link to your public proposal.
+Provide us with a way to contact you (email is probably easiest). You can also email contact@swanchain.io with your GH username and link to your public proposal.
 
 ## Team Members
 
