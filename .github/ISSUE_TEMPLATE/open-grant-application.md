@@ -17,7 +17,7 @@ assignees: ''
 
 **Proposer:** `replace with your GitHub username`
 
-**(Optional) Filecoin ecosystem affiliations:** `Please disclose any existing work relationships with organizations in the Swan or Lagrange, and any others.` 
+**(Optional) Swan ecosystem affiliations:** `Please disclose any existing work relationships with organizations in the Swan or Lagrange, and any others.` 
 
 **(Optional) Technical Sponsor:** `If you have previously discussed this project with a member of the Swan or Lagrange project teams and they have agreed to be a technical sponsor, include their name and/or github handle here`
 
