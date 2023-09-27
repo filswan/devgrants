@@ -1,6 +1,6 @@
 ---
 name: RFP Application
-about: Describe this issue template's purpose here.
+about: Submit a proposal for our open RFPs (Request For Proposals) 
 title: ''
 labels: ''
 assignees: ''
