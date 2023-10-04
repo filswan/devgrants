@@ -62,7 +62,7 @@ Proposals will be assessed based on:
 
 ## Submission Deadline:
 
-September 30, 2023 at 23:59:59 EST
+October 30, 2023 at 23:59:59 EST
 
 ## Contact:
 
